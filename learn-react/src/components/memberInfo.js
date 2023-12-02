@@ -1,0 +1,55 @@
+const memberInfo =[
+  {
+    id: 1,
+    img: '/images/5.jpg',
+    name: 'Saul Goodman',
+    position: 'Bob Odenkirk',
+    phone: '+49 12345678',
+    email: 'saul@b-bad.com',
+  },
+  {
+    id: 2,
+    img: '/images/6.jpg',
+    name: 'Hank Schrader',
+    position: 'Dean Norris',
+    phone: '+49 12345678',
+    email: 'hank@b-bad.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpeg',
+    name: 'Skyler White',
+    position: 'Anna Gunn',
+    phone: '+49 12345678',
+    email: 'skyler@b-bad.com',
+    website: 'skylerwhite.com',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpg',
+    name: 'Gus Fring',
+    position: 'Giancarlo Esposito',
+    phone: '+49 12345678',
+    email: 'gus@b-bad.com',
+  },
+  {
+    id: 5,
+    img: '/images/1.jpeg',
+    name: 'Walter White',
+    position: 'Bryan Cranston',
+    phone: '+49 12345678',
+    email: 'walter@b-bad.com',
+    website: 'walterwhite.com',
+  },
+  {
+    id: 6,
+    img: '/images/2.jpeg',
+    name: 'Jesse Pinkman',
+    position: 'Aaron Paul',
+    phone: '+49 12345678',
+    email: 'jesse@b-bad.com',
+    website: 'jessepinkman.com',
+  },
+]
+
+export default memberInfo
